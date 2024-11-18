@@ -1,0 +1,5 @@
+{
+    "php.suggest.basic": true,
+    "CI.ignoreSymbols": true,
+    "php.validate.executablePath": "F:/xampp/php/php.exe"
+}
